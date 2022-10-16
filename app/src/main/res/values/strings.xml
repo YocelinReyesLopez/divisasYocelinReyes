@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConvertirDivisas</string>
+    <string name="title">Convertidor de dinero</string>
+    <string name="paso">Seleccione una opción</string>
+    <string name="instruction">Ingrese la cantidad</string>
+    <string name="segundo">Seleccione una opción para convertir</string>
+    <string name="btn_conv">Convertir</string>
+    <string-array name="divisas">
+        <item>Peso</item>
+        <item>Dolar</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
